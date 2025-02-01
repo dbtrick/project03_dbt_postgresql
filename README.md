@@ -1,10 +1,5 @@
-Welcome to your new dbt project!
-
-### Using the starter project
-
-Try running the following commands:
-- dbt run
-- dbt test
+### Project Data Architecture Diagram
+![readme-](![Image](https://github.com/user-attachments/assets/338e2371-9644-4395-893e-42c1e4ddab0c))
 
 
 ### Resources:
