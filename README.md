@@ -1,5 +1,5 @@
 ### Project Data Architecture Diagram
-![readme-](![Image](https://github.com/user-attachments/assets/338e2371-9644-4395-893e-42c1e4ddab0c))
+![readme-]![Image](https://github.com/user-attachments/assets/338e2371-9644-4395-893e-42c1e4ddab0c)
 
 
 ### Resources:
